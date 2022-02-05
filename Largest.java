@@ -1,12 +1,11 @@
-
-public class Largest {
-	/**********************************************************************
+/**********************************************************************
 *File        - Largest.java
 *Author      - Anu Mathew
 *Description - Program to find the largest of 3 numbers
 *Date        - 05/02/2022
 *Version     - 1.0 
 ********************************************************************/
+public class Largest {
     public static void main(String[] args) {
 		int num1=3;
 		int num2=4;
